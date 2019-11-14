@@ -8,3 +8,4 @@ Find the tutorials for all the projects at [The CalliCoder Blog](https://www.cal
 + [JavaFX CSS Tutorial](https://www.callicoder.com/javafx-css-tutorial/)
 
 
+`cd javafx-hello-world/src/ && javac HelloWorldApplication.java && java HelloWorldApplication`
